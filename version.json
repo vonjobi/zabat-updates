@@ -1,11 +1,10 @@
 {
-  "versionCode": 20,
-  "versionName": "6.10",
-  "apkUrl": "https://github.com/vonjobi/zabat-updates/releases/download/v6.10/Zabat-v6.10.apk",
+  "versionCode": 21,
+  "versionName": "6.11",
+  "apkUrl": "https://github.com/vonjobi/zabat-updates/releases/download/v6.11/Zabat-v6.11.apk",
   "notes": [
-    "Fixed Search tab",
-    "Fixed Recently Played queue",
-    "Recently Played songs play first, then continue through the full music library",
-    "Playback and stability improvements"
-  ]
+    "Updater Test",
+    "Update system working ❤️"
+  ],
+  "required": false
 }

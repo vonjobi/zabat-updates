@@ -1,0 +1,11 @@
+{
+  "versionCode": 610,
+  "versionName": "6.10",
+  "apkUrl": "https://github.com/vonjobi/zabat-updates/releases/download/v6.10/Zabat-v6.10.apk",
+  "notes": [
+    "Fixed Search tab",
+    "Fixed Recently Played queue",
+    "Recently Played songs play first, then continue through the full music library",
+    "Playback and stability improvements"
+  ]
+}

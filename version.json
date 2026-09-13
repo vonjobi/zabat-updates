@@ -1,10 +1,11 @@
 {
-  "versionCode": 21,
-  "versionName": "6.11",
-  "apkUrl": "https://github.com/vonjobi/zabat-updates/releases/download/v6.11/Zabat-v6.11.apk",
+  "versionCode": 22,
+  "versionName": "6.12",
+  "apkUrl": "https://github.com/vonjobi/zabat-updates/releases/download/v6.12/Zabat-v6.12.apk",
   "notes": [
-    "Updater Test",
-    "Update system working ❤️"
+    "Bottom navigation compatibility fix",
+    "Improved support for different Android screen sizes",
+    "Version display updated to 6.12"
   ],
   "required": false
 }

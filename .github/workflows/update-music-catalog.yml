@@ -25,7 +25,7 @@ jobs:
         run: node scripts/build-music-catalog.js
       - name: Commit catalog if changed
         run: |
-          if git diff --quiet -- music-catalog.json; then
+          if [ -z "$(git status --porcelain -- music-catalog.json)" ]; then
             echo "No catalog changes"
             exit 0
           fi

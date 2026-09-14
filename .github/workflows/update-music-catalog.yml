@@ -1,7 +1,7 @@
 name: Update Zabat music catalog
 
 on:
-  workflow_dispatch:
+ workflow_dispatch:
   schedule:
     - cron: '2-59/5 * * * *'
 

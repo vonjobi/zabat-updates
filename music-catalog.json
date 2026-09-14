@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T15:18:00.885Z",
+  "generated_at": "2026-09-14T16:09:02.029Z",
   "tag": "zabat-added",
-  "count": 3,
+  "count": 2,
   "resources": [
     {
       "public_id": "Britney_Spears_-_Sometimes",
@@ -23,16 +23,6 @@
       "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1789303330/Realize_-_Colbie_Caillat.mp3",
       "display_name": "Realize_-_Colbie_Caillat",
       "created_at": "2026-09-13T12:42:10Z"
-    },
-    {
-      "public_id": "Angels_Brought_Me_Here_-_Guy_Sebastian",
-      "asset_id": "5263d22cb49c31d0a0891916eca5ebce",
-      "asset_folder": "Added Music",
-      "version": 1789398049,
-      "format": "mp3",
-      "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1789398049/Angels_Brought_Me_Here_-_Guy_Sebastian.mp3",
-      "display_name": "Angels_Brought_Me_Here_-_Guy_Sebastian",
-      "created_at": "2026-09-14T15:00:49Z"
     }
   ]
 }

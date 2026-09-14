@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-14T14:53:10.498Z",
+  "tag": "zabat-added",
+  "count": 2,
+  "resources": [
+    {
+      "public_id": "Britney_Spears_-_Sometimes",
+      "asset_id": "62b45bf908f865686390ad12631ba78b",
+      "asset_folder": "Added Music",
+      "version": 1789296342,
+      "format": "mp3",
+      "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1789296342/Britney_Spears_-_Sometimes.mp3",
+      "display_name": "Britney_Spears_-_Sometimes",
+      "created_at": "2026-09-13T10:45:42Z"
+    },
+    {
+      "public_id": "Realize_-_Colbie_Caillat",
+      "asset_id": "76e76445b3cedf067936c8e1b53fa1ec",
+      "asset_folder": "Added Music",
+      "version": 1789303330,
+      "format": "mp3",
+      "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1789303330/Realize_-_Colbie_Caillat.mp3",
+      "display_name": "Realize_-_Colbie_Caillat",
+      "created_at": "2026-09-13T12:42:10Z"
+    }
+  ]
+}

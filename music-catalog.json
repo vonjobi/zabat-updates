@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T05:26:59.345Z",
+  "generated_at": "2026-09-15T05:31:53.052Z",
   "tag": "zabat-added",
-  "count": 3,
+  "count": 2,
   "resources": [
     {
       "public_id": "Britney_Spears_-_Sometimes",
@@ -23,16 +23,6 @@
       "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1789303330/Realize_-_Colbie_Caillat.mp3",
       "display_name": "Realize_-_Colbie_Caillat",
       "created_at": "2026-09-13T12:42:10Z"
-    },
-    {
-      "public_id": "Bakit_ganyan_ka_-_Gracenote_X_Chito",
-      "asset_id": "15c75c8f3db2a670f0cb6b3c4caa2e01",
-      "asset_folder": "Added Music",
-      "version": 1789449956,
-      "format": "mp3",
-      "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1789449956/Bakit_ganyan_ka_-_Gracenote_X_Chito.mp3",
-      "display_name": "Bakit_ganyan_ka_-_Gracenote_X_Chito",
-      "created_at": "2026-09-15T05:25:56Z"
     }
   ]
 }

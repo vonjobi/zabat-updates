@@ -1,11 +1,19 @@
 {
-  "versionCode": 22,
-  "versionName": "6.12",
-  "apkUrl": "https://github.com/vonjobi/zabat-updates/releases/download/v6.12/Zabat-v6.12.apk",
+  "versionCode": 28,
+  "versionName": "6.18",
+  "apkUrl": "https://github.com/vonjobi/zabat-updates/releases/download/v6.18/Zabat-v6.18.apk",
   "notes": [
-    "Bottom navigation compatibility fix",
-    "Improved support for different Android screen sizes",
-    "Version display updated to 6.12"
+    "Added Theme Picker with Original Light, Dark, Pink Dream, and Sunset Love themes",
+    "Original Light is now the default theme",
+    "Added persistent Mini Player",
+    "Added expandable Mini Player and Now Playing experience",
+    "Improved Mini Player and Now Playing swipe animations",
+    "Improved playback synchronization and controls",
+    "Fixed Now Playing updates when automatically changing songs",
+    "Improved seek and fast-forward synchronization",
+    "Now Playing automatically collapses when switching tabs",
+    "Improved theme readability and UI contrast",
+    "Various UI and playback bug fixes"
   ],
   "required": false
 }

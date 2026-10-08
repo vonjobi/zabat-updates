@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T10:51:19.657Z",
+  "generated_at": "2026-10-08T13:58:10.276Z",
   "tag": "zabat-added",
-  "count": 4,
+  "count": 5,
   "resources": [
     {
       "public_id": "Britney_Spears_-_Sometimes",
@@ -43,6 +43,16 @@
       "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1789728628/Bakit_ganyan_ka_-_Gracenote_X_Chito.mp3",
       "display_name": "Bakit_ganyan_ka_-_Gracenote_X_Chito",
       "created_at": "2026-09-18T10:50:28Z"
+    },
+    {
+      "public_id": "Daniel_Bedingfield_-_If_You_re_Not_The_One",
+      "asset_id": "9b05db14d478f2d43dad7ac21d1e67db",
+      "asset_folder": "Added Music",
+      "version": 1791467813,
+      "format": "mp3",
+      "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1791467813/Daniel_Bedingfield_-_If_You_re_Not_The_One.mp3",
+      "display_name": "Daniel_Bedingfield_-_If_You_re_Not_The_One",
+      "created_at": "2026-10-08T13:56:53Z"
     }
   ]
 }

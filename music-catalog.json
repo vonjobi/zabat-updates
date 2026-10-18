@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T10:47:28.475Z",
+  "generated_at": "2026-10-18T11:42:40.296Z",
   "tag": "zabat-added",
-  "count": 7,
+  "count": 8,
   "resources": [
     {
       "public_id": "Britney_Spears_-_Sometimes",
@@ -73,6 +73,16 @@
       "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1792320073/Pink_Sweat_-_At_My_Worst.mp3",
       "display_name": "Pink_Sweat_-_At_My_Worst",
       "created_at": "2026-10-18T10:41:13Z"
+    },
+    {
+      "public_id": "Tabi_-_Paraluman",
+      "asset_id": "6bc19cda882c21bc07c7d6c2cc1d6a29",
+      "asset_folder": "Added Music",
+      "version": 1792320799,
+      "format": "mp3",
+      "secure_url": "https://res.cloudinary.com/xfd18wij/video/upload/v1792320799/Tabi_-_Paraluman.mp3",
+      "display_name": "Tabi_-_Paraluman",
+      "created_at": "2026-10-18T10:53:19Z"
     }
   ]
 }
